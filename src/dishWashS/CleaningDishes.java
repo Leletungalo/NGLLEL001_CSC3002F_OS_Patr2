@@ -3,7 +3,7 @@ package dishWashS;
 public class CleaningDishes {
 
 	public static void main(String[] args) {
-		int no_dishes = 6;//Integer.parseInt(args[0]); //size of barrier
+		int no_dishes = 3;//Integer.parseInt(args[0]); //size of barrier
 		int rack_size = 3;//Integer.parseInt(args[1]); // number of threads
 		int washerSlackness = 100;// Integer.parseInt(args[2]);
 		int dryerSlackness = 100;//Integer.parseInt(args[3]);
